@@ -1,4 +1,4 @@
-# Hello-people of the world who can read english
-This is Rupali here.Strating my first github project here.
-Let's see whre it goes from here.
+# Hello All!!
+This is Rupali .Starting my first github project here.
+Let's see where it goes.
 See you Again!!
